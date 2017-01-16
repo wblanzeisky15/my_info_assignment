@@ -1,1 +1,11 @@
 This semester, I am enrolled in 5 classes which are, STAT489, DSCI210, CS341, CS385, and CMST191. The total credits I am enrolled in right now are 18 credits. I know it sounds like it's not that many classes but trust me, it's tough! :)
+
+For my public speaking class, we have to do a lot of speech. I have never had any public speaking experience before but hopefully, after taking this class, i would be able to do it perfectly. 
+
+For my Data Science class, we discussed and learned a lot of data, what kind of data that is good for data scientist to examine.
+
+For my Data Structure class, we learned a lot about how algorithm works independently. We also taught to know that we should not think of algorithm as a programming language. Instead, think of it as a pseudocode that can be used in any of the programming language.
+
+For my special topics class, i learned a lot of Phyton.
+
+For my database management system class, i learn a lot of database, how does database works.
